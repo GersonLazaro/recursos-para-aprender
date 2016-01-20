@@ -8,7 +8,7 @@ Espero que este sitio te haya resultado de ayuda.
 
 ##### ¿Quieres compartir material?
 
-Cualquier material es bienvenido. Lee la guia para contribuir en el repositorio en Github, o si no tienes experiencia con Github, puedes enviarme un correo a <a href="mailto:gersonlazaro@gersolazaro.com" target="_blan">gersonlazaro@gersonlazaro.com</a> indicando en el asunto "Recursos para compartir".
+Cualquier material es bienvenido. Lee la guia para contribuir en el repositorio en Github, o si no tienes experiencia con Github, puedes enviarme un correo a ["mailto:gersonlazaro@gersolazaro.com"](gersonlazaro@gersonlazaro.com) indicando en el asunto "Recursos para compartir".
 
 ##### Requisitos para compartir material
 
