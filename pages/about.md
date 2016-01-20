@@ -8,7 +8,7 @@ Espero que este sitio te haya resultado de ayuda.
 
 ##### ¿Quieres compartir material?
 
-Cualquier material es bienvenido. Lee la guia para contribuir en el repositorio en Github, o si no tienes experiencia con Github, puedes enviarme un correo a ["mailto:gersonlazaro@gersolazaro.com"](gersonlazaro@gersonlazaro.com) indicando en el asunto "Recursos para compartir".
+Cualquier material es bienvenido. Lee la guia para contribuir en el repositorio en Github, o si no tienes experiencia con Github, puedes enviarme un correo a [gersonlazaro@gersonlazaro.com](mailto:gersonlazaro@gersonlazaro.com) indicando en el asunto "Recursos para compartir".
 
 ##### Requisitos para compartir material
 
@@ -27,6 +27,6 @@ Puedes publicar tus ideas, sugerencias, recomendaciones, informes de errores o l
 ##### Contacto
 
 * Blog: [www.gersonlazaro.com](http://www.gersonlazaro.com)
-* Email: [gersonlazaro@gersonlazaro.com](gersonlazaro@gersonlazaro.com)
+* Email: [gersonlazaro@gersonlazaro.com](mailto:gersonlazaro@gersonlazaro.com)
 * Twitter: [@GersonLazaroC](http://www.twitter.com/GersonLazaroC)
 * Github: [@GersonLazaro](http://www.github.com/gersonlazaro)
