@@ -3,20 +3,20 @@ $(function() {
 	CMS.init({
 
 		// Name of your site or location of logo file ,relative to root directory (img/logo.png)
-		siteName: 'My Site',
+		siteName: 'Recursos para aprender',
 
 		// Tagline for your site
-		siteTagline: 'Your site tagline',
+		siteTagline: 'Aprende todo sobre tecnologías...¡GRATIS!',
 
 		// Email address
-		siteEmail: 'your_email@example.com',
+		siteEmail: 'GersonLazaro@GersonLazaro.com',
 
 		// Name
-		siteAuthor: 'Your Name',
+		siteAuthor: 'Gerson Lázaro',
 
 		// Navigation items
 		siteNavItems: [
-			{ name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+			{ name: 'Github', href: 'https://github.com/GersonLazaro', newWindow: false},
 			{ name: 'About'}
 		],
 
@@ -33,7 +33,7 @@ $(function() {
 		fadeSpeed: 300,
 
 		// Site footer text
-		footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved.',
+		footerText: '&copy; ' + new Date().getFullYear(),
 
 		// Mode 'Github' for Github Pages, 'Apache' for Apache server. Defaults
 		// to Github
@@ -42,8 +42,8 @@ $(function() {
 		// If Github mode is set, your Github username and repo name. Defaults
 		// to Github pages branch (gh-pages)
 		githubUserSettings: {
-			username: 'yourusername',
-			repo: 'yourrepo'
+			username: 'GersonLazaro',
+			repo: 'recursos-para-aprender'
 		}
 
 	});
