@@ -6,7 +6,7 @@ $(function() {
 		siteName: 'Recursos para aprender',
 
 		// Tagline for your site
-		siteTagline: 'Aprende todo sobre tecnologías...¡GRATIS!',
+		siteTagline: 'Aprende tecnología...¡GRATIS!',
 
 		// Email address
 		siteEmail: 'GersonLazaro@GersonLazaro.com',
@@ -33,7 +33,7 @@ $(function() {
 		fadeSpeed: 300,
 
 		// Site footer text
-		footerText: '&copy; ' + new Date().getFullYear(),
+		footerText: '<a href="https://www.gersonlazaro.com" target="_blank">Gerson Lázaro</a> &copy; ' + new Date().getFullYear(),
 
 		// Mode 'Github' for Github Pages, 'Apache' for Apache server. Defaults
 		// to Github
