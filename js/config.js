@@ -16,11 +16,11 @@ $(function() {
 
 		// Navigation items
 		siteNavItems: [
-			{ name: 'Github', href: 'https://github.com/GersonLazaro', newWindow: true},
+			{ name: 'Github', href: 'https://github.com/GersonLazaro', newWindow: false},
 			{ name: 'About'},
 			{ name: 'Libros'},
 			{ name: 'Cursos'},
-			{ name: 'Otros'}
+			{ name: 'Otros'},
 		],
 
 		// Posts folder name
