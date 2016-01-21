@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Obout
+title: Otros
 ---
 
 ### Proximamente
