@@ -6,7 +6,7 @@ $(function() {
 		siteName: 'Recursos para aprender',
 
 		// Tagline for your site
-		siteTagline: 'Aprende tecnología...¡GRATIS!',
+		siteTagline: '',
 
 		// Email address
 		siteEmail: 'GersonLazaro@GersonLazaro.com',
@@ -16,8 +16,11 @@ $(function() {
 
 		// Navigation items
 		siteNavItems: [
-			{ name: 'Github', href: 'https://github.com/GersonLazaro', newWindow: false},
-			{ name: 'About'}
+			{ name: 'Github', href: 'https://github.com/GersonLazaro', newWindow: true},
+			{ name: 'About'},
+			{ name: 'Libros'},
+			{ name: 'Cursos'},
+			{ name: 'Otros'}
 		],
 
 		// Posts folder name
