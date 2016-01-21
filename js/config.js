@@ -3,10 +3,10 @@ $(function() {
 	CMS.init({
 
 		// Name of your site or location of logo file ,relative to root directory (img/logo.png)
-		siteName: 'Recursos para aprender',
+		siteName: 'Recursos',
 
 		// Tagline for your site
-		siteTagline: '',
+		siteTagline: 'para aprender',
 
 		// Email address
 		siteEmail: 'GersonLazaro@GersonLazaro.com',
