@@ -7,6 +7,9 @@ title: Libros
 * [Database fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) - Neeraj Sharma (2010)
 * [NoSQL y MongoDB en Español](https://github.com/yograterol/libromongodb) - Yohan Graterol (2013) Nota: El libro compilado en pdf se encuenta en build/master.pdf
 
+## CRIPTOGRAFÍA
+* [Crypto 101](https://www.crypto101.io/) - Laurens Van Houtven (2014)
+
 ## DISEÑO WEB
 * [The Little Book of HTML/CSS Coding Guidelines](http://www.oreilly.com/web-platform/free/little-book-html-css-coding-guidelines.csp?intcmp=il-web-free-product-lgen_littlebookhtmlcss) - Jens Oliver Meiert (2015)
 * [Transforms in css](http://www.oreilly.com/free/transforms-in-css.csp?intcmp=il-web-free-product-lgen_csstransforms) - Eric A. Meyer (2015)
@@ -25,6 +28,7 @@ title: Libros
 * [Designing Great Web APIs](http://www.oreilly.com/web-platform/free/designing-great-web-apis.csp?intcmp=il-web-free-product-lgen_designinggreatapis) - James Higginbotham (2015)
 * [Static Site Generators](http://www.oreilly.com/web-platform/free/static-site-generators.csp?intcmp=il-web-free-product-lgen_staticsitegenerators) - Brian Rinaldi (2015)
 * [The web platform](http://shop.oreilly.com/product/0636920033127.do?intcmp=il-web-free-product-lgen_webplatform) - Simon St.Laurent (2014)
+* [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) - Leonard Richardson y Sam Ruby (2007)
 
 #### C
 * [Learn C the hard way](http://c.learncodethehardway.org/book/) 
